@@ -183,6 +183,9 @@ img{
     font-weight: normal;
     font-size: 14px;
 }
+.xw_c h3:hover{
+    color: orange;
+}
 .xw_c a{
     color: #616161;
     text-decoration: none;
